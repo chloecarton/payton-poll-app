@@ -1,1 +1,0 @@
-import{C as m}from"./CbEkMy8U.js";import{g as f}from"./ByDsaMVm.js";import{t}from"./DUkIRBjT.js";function c(n){return(n==null?void 0:n.length)!==void 0?n:Array.from(n)}function p(n){const o=m(t),s=o?`${n}?token=${encodeURIComponent(o)}`:n;f(s)}export{c as e,p as g};
