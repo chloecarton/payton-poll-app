@@ -1,0 +1,1 @@
+import{u as n}from"./wvzCNFr3.js";import{g as r}from"./BBEkqdKk.js";import{t as m}from"./YGKN7hKO.js";import{s as a}from"./ClDHLrAv.js";import{b as s}from"./OhmEbMdy.js";function u(o){const t=n(m),e=t?`${s}${o}?token=${encodeURIComponent(t)}`:o;r(e)}function $(o){const t=n(a),e=t?`${s}${o}?share_id=${encodeURIComponent(t)}`:o;r(e)}export{$ as a,u as g};
